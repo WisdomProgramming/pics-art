@@ -12,6 +12,14 @@ html {background-image: url(https://get.wallhere.com/photo/minimalism-sky-blue-g
 	min-width: 20%;
 	overflow-x: hidden
 }
+@font-face {
+  font-family: Pusia;
+  src: url(Pusia Bold.otf);
+}
+@font-face {
+  font-family: Comic Sans MS;
+  src: url(Comic Sans MS.ttf);
+}
 .header {
 	position: absolute;
 	top: 0px;
